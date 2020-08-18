@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='okdoodle',
-    version = '0.0.2',
+    version = '0.0.3',
     description = 'say hello!',
     py_modlues = ["okdoodle"],
     package_dir = {'': 'src'},
